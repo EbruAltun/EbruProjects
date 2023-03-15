@@ -1,4 +1,4 @@
-package day09_SwitchManipulation;
+package day09_StringManipulation;
 
 import java.util.Locale;
 

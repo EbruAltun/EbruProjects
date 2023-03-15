@@ -1,4 +1,4 @@
-package day09_SwitchManipulation;
+package day09_StringManipulation;
 
 public class C05_Concat {
     public static void main(String[] args) {
