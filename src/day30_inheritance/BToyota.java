@@ -8,6 +8,7 @@ public class BToyota extends Araba{
     public void motor(){
         System.out.println("Toyotolar cevreci toyota motorlar kullanır");
     }
+
     public void guvenlik(){
         System.out.println("Toyota araclar extra güvenlik önlemleri barındırır");
     }

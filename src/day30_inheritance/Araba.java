@@ -2,7 +2,8 @@ package day30_inheritance;
 
 public class Araba {
 
-    // marka
+       // marka gozetmeksizin tum arabalarin sahip olacagi ozellikleri
+       // bu class'a koyariz
 
     String marka= "Tüm arabaların markasi olur";
     String model= "Tüm arabaların modeli olur";
