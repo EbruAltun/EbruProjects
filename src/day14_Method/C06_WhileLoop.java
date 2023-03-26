@@ -13,7 +13,7 @@ public class C06_WhileLoop {
         int toplam=0;
         int girilensayiadedi=0;
 
-        while (toplam<500){ // toplam 500'den kucuk oldugu sure boyunca
+        while (toplam<500){   // toplam 500'den kucuk oldugu sure boyunca
             System.out.println("Toplanmak uzere bir tamsayi giriniz");
             girilenSayi = scan.nextInt();
             toplam += girilenSayi;
