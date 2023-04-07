@@ -11,7 +11,7 @@ public class C05_İstenMeyeniSil {
         //        kalan kismini list olarak bize donduren bir method olusturun
 
         List<String> liste = C04_KullaniciyaListeOlusturtmak.kullaniciyaListOlusturtma();
-       Scanner scan = new Scanner(System.in);
+         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen kullanilmasini istemediginiz bir harf girin");
         String istenmeyenHarf = scan.next().substring(0,1);
 
