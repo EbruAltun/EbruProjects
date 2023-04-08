@@ -25,7 +25,7 @@ public class C02_Maps {
         // bir liste seklinde yazdirin
 
 
-        MapMethodDepo.subeOgrenciListesiYazdir(okulMap,"m");
+        MapMethodDepo.subeOgrenciListesiYazdir(okulMap,"h");
 
     }
 }

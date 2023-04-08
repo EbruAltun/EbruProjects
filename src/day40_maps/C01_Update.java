@@ -29,7 +29,7 @@ public class C01_Update {
 
 
         // 6- return edilen yeni halini eski okulMap'e assign edelim
-        okulMap= MapMethodDepo.topluSubeDegistirme(okulMap,"H","K");
+        okulMap=MapMethodDepo.topluSubeDegistirme(okulMap,"M","N");
 
         System.out.println(okulMap);
 

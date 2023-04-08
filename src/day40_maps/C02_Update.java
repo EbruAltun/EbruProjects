@@ -19,10 +19,12 @@ public class C02_Update {
 
         Map<Integer,String> okulMap = MapMethodDepo.ornekMapOlustur();
         System.out.println(okulMap);
+
         okulMap = MapMethodDepo.yilSonuSiniflariDegistir(okulMap);
         System.out.println(okulMap);
 
         // denemek icin bir kere daha calistiralim
+
         okulMap = MapMethodDepo.yilSonuSiniflariDegistir(okulMap);
         System.out.println(okulMap);
 
